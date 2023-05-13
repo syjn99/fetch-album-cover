@@ -26,5 +26,9 @@
     "test": "jest",
     "lint": "eslint . --ext .ts --ext .mts",
     "prettier": "prettier --config .prettierrc --write ."
+  },
+  "dependencies": {
+    "@notionhq/client": "^2.2.5",
+    "dotenv": "^16.0.3"
   }
 }
