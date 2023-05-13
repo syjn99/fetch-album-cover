@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Transpiled files
+build/
+
+# Environment variables
+.env
